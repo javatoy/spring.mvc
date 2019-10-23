@@ -1,3 +1,14 @@
+ *.bak
+Thumbs.db
+bin/
+target/
+.svn/
+/CVS/*
+*/CVS/*
+*.java._trace
+*.pyc
+.DS_Store
+
 # Compiled class file
 *.class
 
